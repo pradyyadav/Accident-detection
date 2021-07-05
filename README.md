@@ -11,7 +11,7 @@
 ##### A Spatio-temporal Autoencoder which consists of 3D Convolutional Layers and it detects accidents in real time videos.
 
 
-##### Check this notebook out: ![accident_detection_using_autoencoder.ipynb](https://colab.research.google.com/drive/1CX8vJMkC9b_tIw0EWR9WkuWkJlyojiUu?authuser=2#scrollTo=pscwSgdo4_z7)
+##### Check this notebook out: ![accident_detection_using_autoencoder.ipynb](https://drive.google.com/file/d/1CX8vJMkC9b_tIw0EWR9WkuWkJlyojiUu/view?usp=sharing)
 
 
 ## Table of contents
